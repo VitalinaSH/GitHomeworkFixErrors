@@ -38,74 +38,76 @@ Using CSS, how would I select every `<h1>` tag on the page?
 #h1 {}
 
 
+
+
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the Programming Language for the Web
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+The branch system in Git allows developers to work individually on a task
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy it
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Git log is a utility tool to review and read a history of everything that happens to a repository.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the send the committed changes in your local repository to the remote repository on GitHub
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is one of the largest web services for comprehensive software development.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+save changes to repository and push them to master branch
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Notepad++
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+Commit messages are a way of communication between team members.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+typing the command git help
